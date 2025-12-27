@@ -1,0 +1,47 @@
+Python
+pycache/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+Virtual Environments
+venv/
+myenv/
+env/
+ENV/
+*/venv/
+*/myenv/
+
+AWS & Secrets
+.aws/
+*.pem
+*.key
+credentials
+guardduty/
+sts/
+*.rst
+
+Large files
+*.zip
+*.tar.gz
+*.log
+awscliv2.zip
+
+OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+IDE
+.vscode/
+.idea/
+*.swp
+
+Docker
+.dockerignore
+
+Backups
+*.backup
