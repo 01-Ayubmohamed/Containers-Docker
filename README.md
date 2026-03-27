@@ -12,7 +12,7 @@ Build a multi-container application consisting of:
 ---
 ## overview 
 
-Design a simple multi-container application using flask and redis to show a welcome page and track number of page visits. This project will allow you to utlise and understand how container networking and servoices communicate.  
+Design a simple multi-container application using flask and redis to show a welcome page and track number of page visits. This project will allow you to utlise and understand how container networking and services communicate.  
 
 ---
 ## Architecture 
